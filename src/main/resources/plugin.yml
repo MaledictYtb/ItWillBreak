@@ -1,0 +1,4 @@
+name: itwillbreak
+version: '${version}'
+main: org.itwillbreak.Itwillbreak
+api-version: '1.20'
